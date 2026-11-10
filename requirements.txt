@@ -1,0 +1,7 @@
+torch
+transformers>=4.43
+accelerate
+bitsandbytes
+sacrebleu
+pandas
+matplotlib
